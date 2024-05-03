@@ -1,0 +1,9 @@
+05/01/2024 20:29:23 => [Debug] Debug started for file: Main
+05/01/2024 20:29:24 => [Info] RPADev-S05P03-InputActions execution started
+05/01/2024 20:29:24 => [Info] RPADev-S05P03-InputActions.Main.Begin;
+05/01/2024 20:29:31 => [Debug] Audit: Using Desktop App. App: Microsoft.WindowsNotepad_8wekyb3d8bbwe!App Arguments:
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions.Main.OperationComplete;
+Text: I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
+saved to Data\Output\RPADev-S05P03-InputActions.txt
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions.Main.End;
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions execution ended in: 00:00:24
