@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S05P03 Input Actions
 
 This project is my solution in **C#** to the **Input Actions** practice found in section 05 practice 03 of the UiPath - RPA Developer Foundation course.
@@ -36,7 +36,15 @@ Create a sequence that does the following Notepad automation:
 ### Sample Output
 
 ```
-
+05/01/2024 20:29:23 => [Debug] Debug started for file: Main
+05/01/2024 20:29:24 => [Info] RPADev-S05P03-InputActions execution started
+05/01/2024 20:29:24 => [Info] RPADev-S05P03-InputActions.Main.Begin;
+05/01/2024 20:29:31 => [Debug] Audit: Using Desktop App. App: Microsoft.WindowsNotepad_8wekyb3d8bbwe!App Arguments:
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions.Main.OperationComplete;
+Text: I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
+saved to Data\Output\RPADev-S05P03-InputActions.txt
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions.Main.End;
+05/01/2024 20:29:48 => [Info] RPADev-S05P03-InputActions execution ended in: 00:00:24
 ```
 
 ### Architecture Requirements
